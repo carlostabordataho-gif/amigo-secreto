@@ -21,3 +21,4 @@ Este proyecto fue realizado como parte del desafío del programa Oracle Next Edu
 
 ```bash
 git clone https://github.com/carlostaho/amigo-secreto.git
+Publicado con ❤️ para forzar reconstrucción.
